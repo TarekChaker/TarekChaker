@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TarekChaker
-- 👀 I’m interested in SHipping carrier solutions
+- 👀 I’m interested in developing a shipping carrier solutions
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on with some technical people to build a solution
 - 📫 How to reach me via email 
